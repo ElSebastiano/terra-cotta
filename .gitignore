@@ -1,0 +1,14 @@
+# Interne Recherche-/Analyse-Dateien (nicht für den öffentlichen Kunden-Auftritt)
+phase1_analyse.md
+phase2_markenanalyse.md
+phase3_strategie.md
+phase4_umsetzung.md
+TERRA_COTTA_Konstanz.md
+VOR-UEBERGABE-CHECKLISTE.md
+docs/
+
+# Rohe Referenzgrafik (Bild-Duplikat; optimierte Varianten liegen in assets/img/)
+hero-referenz-terra-cotta-konstanz.png
+
+# Rohmaterial für den Asset-Build (Pexels-Originale, Logo-Rohdatei)
+tools/raw/

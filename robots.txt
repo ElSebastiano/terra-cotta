@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /docs/
+
+Sitemap: https://terra-cotta.aurora-innovations.de/sitemap.xml

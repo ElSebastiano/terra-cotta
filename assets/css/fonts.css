@@ -1,0 +1,27 @@
+/* Selbst gehostete Schriften (Google Fonts, SIL Open Font License).
+   Variable Fonts, latin-Subset, jeweils eine Datei pro Stil deckt den
+   gesamten benoetigten Schnittbereich ab (kein Nachladen pro Schnitt). */
+
+@font-face {
+  font-family: "Fraunces";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../fonts/fraunces-regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../fonts/fraunces-italic-500.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../fonts/worksans-variable.woff2") format("woff2");
+}
